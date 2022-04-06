@@ -1,5 +1,4 @@
 // INPUT
-
 // data 1: user name
 const userName = prompt ('What\'s your name?')
 // test
